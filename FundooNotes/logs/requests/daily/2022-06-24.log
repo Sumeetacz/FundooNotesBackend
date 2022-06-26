@@ -1,0 +1,4 @@
+info: ::1 - - [24/Jun/2022:12:36:55 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [24/Jun/2022:12:36:55 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+

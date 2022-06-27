@@ -1,0 +1,100 @@
+info: ::1 - - [27/Jun/2022:02:26:36 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:27:22 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:27:33 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:27:36 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:27:36 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:28:03 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:28:15 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:28:34 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:29:53 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:29:54 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:49:48 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:53:42 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:54:13 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:02:54:23 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:57:36 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:57:44 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:58:07 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:02:58:22 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 139 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:03:37:49 +0000] "POST /api/v1/users/newuser HTTP/1.1" 500 56 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:03:39:50 +0000] "POST /api/v1/users/newuser HTTP/1.1" 201 325 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:29:37 +0000] "GET /api/v1/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:16:29:37 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:16:34:06 +0000] "GET /api/v1/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:34:24 +0000] "GET /api/v1/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:34:41 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:36:15 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:36:47 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:36:56 +0000] "POST /api/v1/users/login HTTP/1.1" 400 49 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:38:01 +0000] "POST /api/v1/users/login HTTP/1.1" 400 49 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:38:07 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:41:47 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:41:56 +0000] "POST /api/v1/users/newuser HTTP/1.1" 201 325 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:42:45 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:43:00 +0000] "GET /api/v1/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:43:03 +0000] "GET /api/v1/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:43:21 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:43:32 +0000] "GET /api/v1/users/newusers HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:16:43:55 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:00:20 +0000] "POST /api/v1/users/login HTTP/1.1" 200 518 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:03:04 +0000] "POST /api/v1/users/login HTTP/1.1" 200 518 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:16:41 +0000] "GET /api/v1/ HTTP/1.1" 200 9 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:17:16:41 +0000] "GET /favicon.ico HTTP/1.1" 404 47 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
+
+info: ::1 - - [27/Jun/2022:17:17:01 +0000] "POST /api/v1/users/login HTTP/1.1" 200 518 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:18:47 +0000] "GET /api/v1/users/login HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:19:03 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:19:09 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:19:47 +0000] "GET /api/v1/users/newuser HTTP/1.1" 404 47 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:19:57 +0000] "POST /api/v1/users/newuser HTTP/1.1" 201 324 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:20:28 +0000] "POST /api/v1/users/newuser HTTP/1.1" 201 325 "-" "PostmanRuntime/7.29.0"
+
+info: ::1 - - [27/Jun/2022:17:20:56 +0000] "POST /api/v1/users/login HTTP/1.1" 200 518 "-" "PostmanRuntime/7.29.0"
+

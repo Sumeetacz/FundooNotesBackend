@@ -1,0 +1,190 @@
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T02:26:14.866Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T02:26:15.015Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundoonotes_sumeet.users index: email_1 dup key: { email: null } 
+      url - /api/v1/users/newuser 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-27T02:26:36.321Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.writeHead (node:_http_server:275:11)
+    at ServerResponse.writeHead (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:266:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Sumeet\FundooNotes\FundooNotes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:26:36.368Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundoonotes_sumeet.users index: email_1 dup key: { email: null } 
+      url - /api/v1/users/newuser 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-27T02:28:15.884Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.writeHead (node:_http_server:275:11)
+    at ServerResponse.writeHead (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:266:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Sumeet\FundooNotes\FundooNotes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:28:15.896Z"}
+error: 
+      status - 11000
+      message - E11000 duplicate key error collection: fundoonotes_sumeet.users index: email_1 dup key: { email: null } 
+      url - /api/v1/users/newuser 
+      method - POST 
+      IP - ::1
+     {"timestamp":"2022-06-27T02:28:34.627Z"}
+error: 
+    status - 500 
+    message - RangeError: Invalid status code: 11000
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.writeHead (node:_http_server:275:11)
+    at ServerResponse.writeHead (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\on-headers\index.js:44:26)
+    at ServerResponse._implicitHeader (node:_http_server:266:8)
+    at write_ (node:_http_outgoing:766:9)
+    at ServerResponse.end (node:_http_outgoing:855:5)
+    at ServerResponse.send (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:232:10)
+    at ServerResponse.json (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\response.js:278:15)
+    at appErrorHandler (C:\Users\Sumeet\FundooNotes\FundooNotes\src\middlewares\/error.middleware.js:36:26)
+    at Layer.handle_error (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:326:13)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:346:12)
+    at Immediate.next (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:280:10)
+    at Immediate._onImmediate (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\express\lib\router\index.js:646:15)
+    at processImmediate (node:internal/timers:468:21) 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:28:34.632Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T02:29:48.672Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T02:29:48.856Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T02:49:16.381Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T02:49:16.486Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T02:52:16.611Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T02:52:16.732Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T02:53:08.877Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T02:53:09.057Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fname" is required 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:57:44.398Z"}
+error: 
+    status - 500 
+    message - ValidationError: "sname" is required 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:58:07.640Z"}
+error: 
+    status - 500 
+    message - ValidationError: User validation failed: lastname: Path `lastname` is required., firstname: Path `firstname` is required.
+    at model.Document.invalidate (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\mongoose\lib\document.js:2782:32)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\mongoose\lib\document.js:2574:17
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\mongoose\lib\schematype.js:1273:9
+    at processTicksAndRejections (node:internal/process/task_queues:78:11) 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T02:58:22.028Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 32
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:539:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T03:37:30.855Z"}
+error: 
+    status - 500 
+    message - ValidationError: "fname" is required 
+    url - /api/v1/users/newuser 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-06-27T03:37:49.169Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T03:38:57.365Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T03:38:57.491Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T16:27:30.565Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T16:27:30.802Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T16:29:29.501Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T16:29:29.790Z"}
+info: Server started at http://localhost:8001/api/v1/ {"timestamp":"2022-06-27T16:32:28.312Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T16:32:28.522Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:06:12.986Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:09:50.010Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:10:11.026Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:10:30.967Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:11:08.091Z"}
+info: Server started at http://localhost:8002/api/v1/ {"timestamp":"2022-06-27T17:11:36.855Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:11:36.949Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:13:34.217Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:14:03.960Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:14:29.456Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:14:50.087Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:15:38.331Z"}
+info: Server started at http://localhost:8003/api/v1/ {"timestamp":"2022-06-27T17:16:30.326Z"}
+info: Connected to the database. {"timestamp":"2022-06-27T17:16:30.474Z"}
+error: 
+    status - 500 
+    message - SyntaxError: Unexpected string in JSON at position 31
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:202:9)
+    at invokeCallback (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:231:16)
+    at done (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:220:7)
+    at IncomingMessage.onEnd (C:\Users\Sumeet\FundooNotes\FundooNotes\node_modules\raw-body\index.js:280:7)
+    at IncomingMessage.emit (node:events:539:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) 
+    url - /api/v1/users/login 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2022-06-27T17:18:28.328Z"}

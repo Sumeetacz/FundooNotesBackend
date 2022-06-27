@@ -3,11 +3,11 @@ import { Schema, model } from 'mongoose';
 
 const userSchema = new Schema(
   {
-    fname: {
+    firstname: {
       type: String,
       required: true
     },
-    sname: {
+    lastname: {
       type: String,
       required: true
     },

@@ -1,5 +1,6 @@
 import User from '../models/user.model';
 import bcrypt from 'bcrypt';
+import jwt from 'jsonwebtoken';
 
 // //get all users
 // export const getAllUsers = async () => {
@@ -51,3 +52,41 @@ export const newUser = async (body) => {
   return data;
 };
 
+// login User############
+ 
+export const login = async (body) => {
+ 
+  const result = await User.findOne({mailid:body.mailid});
+  // console.log(result)
+ 
+  if(result!= null){
+   
+    const comparePass =await bcrypt.compare(body.password, result.password);
+    if(comparePass){
+ 
+      var token = jwt.sign({ foo: result}, process.env.SECRATEKEY);
+      return token
+   
+    }else{
+      throw new Error("Password is incorrect")
+    }
+ 
+ 
+  }else{
+    throw new Error("Mail Is not exist")
+  }
+ 
+ 
+  // if(result){
+  //   const comparePass =await bcrypt.compare(body.password, result.password);
+  //   console.log(comparePass);
+  //   if(comparePass){
+  //     return result;
+  //   }
+  //   else{
+  //     difError;
+  //   }
+   
+  // }
+ 
+};
